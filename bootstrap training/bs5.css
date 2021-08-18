@@ -1,0 +1,17 @@
+.body{
+    background-color: darkolivegreen;
+    margin: 0px;
+}
+.title{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: auto;
+}
+.nav div{
+    
+    border:green 1px solid;
+}
